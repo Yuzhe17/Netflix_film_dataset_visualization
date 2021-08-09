@@ -1,0 +1,1 @@
+from netflix_app import app
